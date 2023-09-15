@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/assets/font_awesome_6_pro
 
 # testing
 /coverage
@@ -14,6 +15,7 @@
 
 # production
 /build
+/.vscode
 
 # misc
 .DS_Store
